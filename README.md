@@ -1,1 +1,1 @@
-8kyu solutions
+8kyu solutions for codewars
