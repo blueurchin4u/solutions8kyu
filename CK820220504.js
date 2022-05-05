@@ -8,7 +8,7 @@ Examples (Input -> Output)
 * [-52, 56, 30, 29, -54, 0, -110] -> min = -110, max = 56
 * [42, 54, 65, 87, 0]             -> min = 0, max = 87
 * [5]                             -> min = 5, max = 5
-
+ 
 The Math.max() function returns the largest of the zero or more numbers given as input parameters, or NaN if any parameter isn't a number and can't be converted into one.
 
 The static function Math.min() returns the lowest-valued number passed into it, or NaN if any parameter isn't a number and can't be converted into one.
