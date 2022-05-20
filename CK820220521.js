@@ -1,5 +1,5 @@
 /*
-Count by X
+Count by X 
 
 Create a function with two arguments that will return an array of the first (n) multiples of (x).
 
@@ -17,7 +17,7 @@ countBy(2,5) === [2,4,6,8,10]
 3. push x*i to the empty array (z)
 */
 
-function countBy(x, n) {
+function countBy(x, n) { 
   let z = [];
   for (let i = 1; i <= n; i++) {
      z.push(x * i) 
