@@ -22,7 +22,7 @@ function countBy(x, n) {
   for (let i = 1; i <= n; i++) {
      z.push(x * i) 
   }
-  return z;
+  return z; 
 }
 
 
