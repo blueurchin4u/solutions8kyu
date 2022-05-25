@@ -13,4 +13,4 @@ function invert(array) {
     return array.map((opposite) => {
       return opposite >= 0 ? -Math.abs(opposite) : Math.abs(opposite);
     });
- } 
+ }  
