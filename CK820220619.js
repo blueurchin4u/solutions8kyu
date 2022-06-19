@@ -9,3 +9,7 @@ For example, if a bottle cost £10 normally and the discount in duty free was 10
 
 All inputs will be integers. Please return an integer. Round down.
 */
+
+const dutyFree = (normPrice, discount, hol) => {
+    return Math.floor(hol/((normPrice*discount)/100))
+   }
