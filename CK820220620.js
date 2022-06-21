@@ -15,4 +15,4 @@ The input string can be of arbitrary length - in particular, it may be empty. Al
 ****** /T/g that will globally, replace every instance of T and replace it with U ********
 */
 
-const DNAtoRNA = dna => dna.replace(/T/g, 'U')
+const DNAtoRNA = dna => dna.replace(/T/g, 'U') 
