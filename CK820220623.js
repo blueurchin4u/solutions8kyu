@@ -15,7 +15,7 @@ For example:
 
 5, 10, 2  -->  17
 */
-
+ 
 const goals = (laLigaGoals, copaDelReyGoals, championsLeagueGoals) => {
     const totalNumOfGoals = laLigaGoals + copaDelReyGoals + championsLeagueGoals
     return totalNumOfGoals
