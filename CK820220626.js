@@ -8,6 +8,6 @@ Write a program that returns the girl's age (0-9) as an integer.
 Assume the test input string is always a valid string. For example, the test input may be "1 year old" or "5 years old". The first character in the string is always a number.
 
 The Number.parseInt() method parses a string argument and returns an integer of the specified radix or base.
-*/
-
+*/ 
+ 
 const getAge = inputString => Number.parseInt(inputString)
