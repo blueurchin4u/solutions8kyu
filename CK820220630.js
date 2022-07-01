@@ -8,7 +8,7 @@ Given a non-negative integer, 3 for example, return a string with a murmur: "1 s
 3.  add  that to sheep variable plus added murmur
 */
 
-var countSheep = function (num) {
+var countSheep = function (num) { 
     let sheep = ''
 
     for (i = 1; i <= num; i++) {
