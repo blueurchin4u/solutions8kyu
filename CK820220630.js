@@ -13,6 +13,6 @@ var countSheep = function (num) {
 
     for (i = 1; i <= num; i++) {
         sheep += i + ' sheep...'
-    }
+    } 
     return sheep
 }
