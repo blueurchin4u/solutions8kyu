@@ -21,4 +21,4 @@ const enough = (cap, on, wait) => {
     let totalNumOfPass = on + wait
       return totalNumOfPass > cap ? totalNumOfPass - cap : 0;
     }
-const enough2 = (cap, on, wait) => (on + wait) >= cap ? (on + wait) - cap : 0;
+const enough2 = (cap, on, wait) => (on + wait) >= cap ? (on + wait) - cap : 0; 
