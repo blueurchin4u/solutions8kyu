@@ -10,6 +10,6 @@ name equals owner	'Hello boss'
 otherwise	'Hello guest'
 */
 
-const greet = (name, owner) => 
+const greet = (name, owner) =>  
   name === owner ? 'Hello boss' : 'Hello guest'
 
