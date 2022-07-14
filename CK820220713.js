@@ -9,7 +9,7 @@ Output :: "One".
 
 If your language supports it, try using a switch statement.
 */
-
+ 
 const switchItUp = number => 
    number === 1 ? "One" :
    number === 2 ? 'Two' :
