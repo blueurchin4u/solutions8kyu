@@ -9,4 +9,4 @@ For example: month 2 (February), is part of the first quarter; month 6 (June), i
 const quarterOf = month =>
          month <= 3 ? 1 : 
          month <= 6 ? 2 :
-         month <= 9 ? 3 : 4
+         month <= 9 ? 3 : 4 
