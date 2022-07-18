@@ -9,7 +9,7 @@ Example(Input1, Input2 --> Output):
 6, 10 --> 32
 3, 3 --> 9
 */
-
+ 
 const areaOrPerimeter = function(l , w) {
     return l === w ? l * w : (l * 2) + (w * 2)
  };
