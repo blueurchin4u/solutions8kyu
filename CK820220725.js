@@ -23,4 +23,3 @@ const century = year => {
 
     return calc + century;
 }
-
