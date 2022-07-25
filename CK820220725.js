@@ -14,6 +14,7 @@ Examples
 2000 --> 20
 
 1.  If the remainder of year strictly equals 0, then return 0 - if not, return 1 and add that to the return statement. 
+1.  If the remainder of year strictly equals 0, then return 0 - if not, return 1 and add that to the return statement.
 */
 
 const century = year => {
@@ -23,3 +24,7 @@ const century = year => {
 
     return calc + century;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 452475ff0a06a610d3945dfe33bc43edd1631aef
