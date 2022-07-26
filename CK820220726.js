@@ -9,4 +9,3 @@ For example:
 */
 
 const maps = x => x.map((xs) => xs * 2)
-
