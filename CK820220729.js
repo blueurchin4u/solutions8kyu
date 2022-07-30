@@ -8,4 +8,4 @@ Complete the function that takes a string as an argument representing the curren
 For example, when the input is green, output should be yellow.
 */
 
-const updateLight = current => current == 'green' ? 'yellow': current == 'yellow' ? 'red' : 'green'
+const updateLight = current => current == 'green' ? 'yellow': current == 'yellow' ? 'red' : 'green' 
